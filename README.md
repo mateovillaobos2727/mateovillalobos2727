@@ -7,7 +7,7 @@ Soy Mateo, un desarrollador web apasionado por resolver problemas con tecnologí
 - **Bases de Datos:** MySQL, PostgreSQL
 
 ## Proyectos Destacados 💻
-- [**Clean Clean**](): Un sistema interactivo para realizar operaciones bancarias.
+- [**Clean Clean**](): Pagina web de distribuidora de productos de lipieza.
 
 ## Conéctate conmigo 🌐
 - 📧 mateovillalobos2727@gmail.com
